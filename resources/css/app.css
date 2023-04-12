@@ -1,0 +1,8 @@
+@import 'nav.css';
+@import 'container.css';
+@import 'form.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
